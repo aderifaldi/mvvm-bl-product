@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="paddingNormal">16dp</dimen>
+    <dimen name="marginNormal">16dp</dimen>
+    <dimen name="fontNormal">15sp</dimen>
+    <dimen name="fontMedium">13sp</dimen>
+    <dimen name="marginMedium">8dp</dimen>
+    <dimen name="progressBarSmall">24dp</dimen>
+</resources>
